@@ -27,7 +27,7 @@ The Tableau solution is divided into three analytical views to serve different s
 *Target Audience: Senior Management*
 - **Key Features:** High-level KPIs (Total Sales, Total Profit, Profit Margin, YoY Growth).
 - **Function:** Provides a snapshot of business health, tracking monthly trends to identify seasonality and overall growth trajectory.
-<img width="1262" height="813" alt="Screenshot 2568-12-29 at 17 26 56" src="https://github.com/user-attachments/assets/3cc4d1c3-ae51-42b0-893f-0d88fc138e9f" />
+<img width="1263" height="811" alt="Executive Performance View (Overview)" src="https://github.com/user-attachments/assets/352a3a5a-d5fc-43ab-bdaa-86088ce1204e" />
 
 ### 2. Product & Sales Intelligence
 *Target Audience: Sales Managers & Marketing*
